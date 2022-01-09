@@ -1,14 +1,14 @@
 @charset "UTF-8";
 
 :root {
-  --bs-blue: #0d6efd;
-  --bs-indigo: #6610f2;
-  --bs-purple: #7464a1;
-  --bs-pink: #d63384;
-  --bs-red: #a16468;
-  --bs-orange: #fd7e14;
-  --bs-yellow: #e4c662;
-  --bs-green: #67c29c;
+  --bs-blue: #659bec;
+  --bs-indigo: #7543c5;
+  --bs-purple: #443964;
+  --bs-pink: #dd62a0;
+  --bs-red: #5e2d31;
+  --bs-orange: #c55d07;
+  --bs-yellow: #ebc444;
+  --bs-green: #79e0b5;
   --bs-teal: #64a19d;
   --bs-cyan: #1cabc4;
   --bs-white: #fff;
@@ -25,7 +25,7 @@
   --bs-gray-900: #212529;
   --bs-primary: #64a19d;
   --bs-secondary: #7464a1;
-  --bs-success: #67c29c;
+  --bs-success: #56f170;
   --bs-info: #1cabc4;
   --bs-warning: #e4c662;
   --bs-danger: #a16468;
@@ -11552,7 +11552,7 @@ body {
   height: auto;
   min-height: 35rem;
   padding: 15rem 0;
-  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.3) 0%, rgba(0, 0, 0, 0.7) 75%, #000 100%), url("../assets/img/bg-masthead.jpg");
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.3) 0%, rgba(0, 0, 0, 0.7) 75%, #000 100%), url("../assets/img/projectbackground.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
